@@ -36,7 +36,7 @@
               <br />
               <div class="social d-flex text-center">
                 <a href="/register" class="px-2 py-2 ml-md-1 rounded" style="font-size: 25px;"
-                  ><span class="ion-logo-twitter mr-2"></span> สมัครสมาชิก</a
+                  ><span class="ion-logo-twitter mr-2"></span> ลงทะเบียนศิษย์เก่า</a
                 >
               </div>
               <br />

@@ -37,8 +37,6 @@ $routes->get('/dashboard', 'Dashboard::index', ['filter'=>'auth']);
 $routes->get('/logout', 'Login::logout');
 
 $routes->get('/search', 'Search::index');
-
-
 $routes->get('/search_firstname', 'Search::searchFirstname');
 $routes->get('/search_education', 'Search::searchEducationYear');
 $routes->get('/search_section', 'Search::searchSection');
